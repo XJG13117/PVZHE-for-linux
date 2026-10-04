@@ -1,12 +1,19 @@
 # PVZHE-for-linux
 在ubuntu24版系统上玩植物大战僵尸杂交重制版
+
 这是项目文件的大致结构，由于上传限制，网页项目并不完整
+
 大家可在移动云盘链接: https://yun.139.com/shareweb/#/w/i/2xTrMmrGrNc0r
+
 下载完整项目<img width="190" height="194" alt="image" src="https://github.com/user-attachments/assets/173ed8f7-781b-44bf-9107-8e889ab95ee9" />
 下面进入安装教程：
+
 在ubuntu24版系统下，下载完项目：
+
 <img width="1040" height="594" alt="image" src="https://github.com/user-attachments/assets/c4561e3c-f34f-4f66-afbe-cfc8ea283f55" />
+
 放到你指定的文件夹里
+
 <img width="459" height="240" alt="image" src="https://github.com/user-attachments/assets/bd1df01d-8147-49ad-a51a-d0c3d3f5daae" />
 
 先运行
