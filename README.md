@@ -74,3 +74,6 @@ cd pvzhybrid-linux
 
 详细视频请看B站：
 
+【在Linux上玩植物大战僵尸杂交重制版】 
+
+https://www.bilibili.com/video/BV1tsHr6XEJ5/?share_source=copy_web&vd_source=62148269b65290cbb07a1655bc851ac6
