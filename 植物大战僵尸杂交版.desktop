@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=植物大战僵尸杂交版
+Name[zh_CN]=植物大战僵尸杂交版
+Comment=植物大战僵尸杂交重制版 0.29（Godot + .NET 原生运行）
+Comment[zh_CN]=植物大战僵尸杂交重制版 0.29（Godot + .NET 原生运行）
+Exec=__HOME__/.local/bin/pvz-hybrid
+Icon=pvz-hybrid
+Terminal=false
+Categories=Game;StrategyGame;
+Keywords=PVZ;PlantsVsZombies;植物大战僵尸;杂交版;游戏;
+StartupNotify=true
+StartupWMClass=Godot_Engine
+Path=__PROJECT_DIR__
