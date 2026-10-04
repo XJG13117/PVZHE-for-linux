@@ -39,20 +39,25 @@ cd pvzhybrid-linux
 拿旧版本演示
 
 如何更新
+
 找到解压缩后的ext3文件夹
+
 <img width="660" height="525" alt="image" src="https://github.com/user-attachments/assets/665f9ce0-9654-43ca-9ec6-08b4e6499799" />
 
 里面是类似于发布的window版文件夹
 
 进到能找到PCK文件的地方
+
 <img width="620" height="341" alt="image" src="https://github.com/user-attachments/assets/c15ffcae-c9b9-49e3-a28b-79f3accb854d" />
 
 例如：植物大战僵尸杂交版发布版0.29.0.Csharp.pck
 
 将里面所看到文件全部删除
+
 <img width="778" height="589" alt="image" src="https://github.com/user-attachments/assets/c325926e-3581-4069-a6d2-41afc6fca2ed" />
 
 将潜艇伟伟迷发布的windows更新包（包含PCK文件）全部放到这里就行
+
 <img width="1119" height="401" alt="image" src="https://github.com/user-attachments/assets/3cd77102-6051-4729-94b5-6efe2f9e7560" />
 
 剪切windows包内容
@@ -60,6 +65,7 @@ cd pvzhybrid-linux
 
 放到上述项目文件夹里
 <img width="1720" height="898" alt="image" src="https://github.com/user-attachments/assets/9a55b8e0-20de-43fc-b1e3-c496d732e655" />
+
 <img width="1725" height="746" alt="image" src="https://github.com/user-attachments/assets/d29c7abb-c99c-4290-8a1e-b0a71d72dac4" />
 
 再次启动即可
@@ -67,3 +73,4 @@ cd pvzhybrid-linux
 <img width="1794" height="1044" alt="image" src="https://github.com/user-attachments/assets/023f3a1d-d3b9-4a33-9748-58ead134bd33" />
 
 详细视频请看B站：
+
